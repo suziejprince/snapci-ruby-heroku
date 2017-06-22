@@ -49,4 +49,4 @@ Make sure you have Ruby installed.
       $ bundle install
       $ bundle exec rake db:create db:migrate
 
-Your app should now be running on localhost:5000.
+Your app should now be running on localhost:5000
