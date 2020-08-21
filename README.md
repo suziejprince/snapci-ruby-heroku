@@ -51,4 +51,3 @@ Make sure you have Ruby installed.
 
 Your app should now be running on localhost:5000
 
-Made a change 
